@@ -130,7 +130,7 @@ serviceMonitor:
 resources:
   limits:
   requests:
-    cpu: 1m
+    cpu: 19m
     memory: 16Mi
 
 nodeSelector: {}
