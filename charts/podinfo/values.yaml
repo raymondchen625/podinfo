@@ -15,7 +15,6 @@ nginxImage:
   tag: 1.21   # Valid versions: 1.22, 1.21, 1.19
   replicaCount: 1
 
-
 ui:
   color: "#34577c"
   message: "abc"
