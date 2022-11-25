@@ -1,4 +1,4 @@
-# Default values for podinfo.
+ Default values for podinfo.
 
 replicaCount: 1
 logLevel: info
