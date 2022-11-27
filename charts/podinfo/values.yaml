@@ -12,8 +12,8 @@ image:
   pullPolicy: IfNotPresent
 nginxImage:
   repository: nginx
-  tag: 1.19   # Valid versions: 1.22, 1.21, 1.19
-  replicaCount: 1
+  tag: 1.21   # Valid versions: 1.22, 1.21, 1.19
+  replicaCount: 3
 
 ui:
   color: "#34577c"
