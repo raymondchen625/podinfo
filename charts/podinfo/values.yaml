@@ -1,6 +1,6 @@
 # Default values for podinfo.
 
-replicaCount: 7
+replicaCount: 1
 logLevel: info
 host: #0.0.0.0
 backend: #http://backend-podinfo:9898/echo
@@ -13,7 +13,7 @@ image:
 nginxImage:
   repository: nginx
   tag: 1.22   # Valid versions: 1.22, 1.21, 1.19
-  replicaCount: 9
+  replicaCount: 1
 
 ui:
   color: "#34577c"
