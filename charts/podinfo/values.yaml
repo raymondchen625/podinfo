@@ -13,7 +13,7 @@ image:
 nginxImage:
   repository: nginx
   tag: 1.19   # Valid versions: 1.22, 1.21, 1.19
-  replicaCount: 1
+  replicaCount: 2
 
 ui:
   color: "#34577c"
