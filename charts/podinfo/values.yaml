@@ -1,4 +1,5 @@
 # Default values for podinfo.
+# Add comment
 
 replicaCount: 1
 logLevel: info
